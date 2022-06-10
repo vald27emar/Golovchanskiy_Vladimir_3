@@ -1,0 +1,8 @@
+D:\Университет\1 курс\2 cеместр\ОП\lab3\lab3_3\lab3_3\bin\Debug\lab3_3.exe.config
+D:\Университет\1 курс\2 cеместр\ОП\lab3\lab3_3\lab3_3\bin\Debug\lab3_3.exe
+D:\Университет\1 курс\2 cеместр\ОП\lab3\lab3_3\lab3_3\bin\Debug\lab3_3.pdb
+D:\Университет\1 курс\2 cеместр\ОП\lab3\lab3_3\lab3_3\obj\Debug\lab3_3.csproj.AssemblyReference.cache
+D:\Университет\1 курс\2 cеместр\ОП\lab3\lab3_3\lab3_3\obj\Debug\lab3_3.csproj.SuggestedBindingRedirects.cache
+D:\Университет\1 курс\2 cеместр\ОП\lab3\lab3_3\lab3_3\obj\Debug\lab3_3.csproj.CoreCompileInputs.cache
+D:\Университет\1 курс\2 cеместр\ОП\lab3\lab3_3\lab3_3\obj\Debug\lab3_3.exe
+D:\Университет\1 курс\2 cеместр\ОП\lab3\lab3_3\lab3_3\obj\Debug\lab3_3.pdb

@@ -1,0 +1,11 @@
+D:\Университет\1 курс\2 cеместр\ОП\lab3\lab3_2\lab3_2\obj\Debug\lab3_2.csproj.AssemblyReference.cache
+D:\Университет\1 курс\2 cеместр\ОП\lab3\lab3_2\lab3_2\obj\Debug\lab3_2.csproj.SuggestedBindingRedirects.cache
+D:\Университет\1 курс\2 cеместр\ОП\lab3\lab3_2\lab3_2\obj\Debug\lab3_2.csproj.CoreCompileInputs.cache
+D:\Университет\1 курс\2 cеместр\ОП\lab3\lab3_2\lab3_2\bin\Debug\lab3_2.exe.config
+D:\Университет\1 курс\2 cеместр\ОП\lab3\lab3_2\lab3_2\bin\Debug\lab3_2.exe
+D:\Университет\1 курс\2 cеместр\ОП\lab3\lab3_2\lab3_2\bin\Debug\lab3_2.pdb
+D:\Университет\1 курс\2 cеместр\ОП\lab3\lab3_2\lab3_2\bin\Debug\Newtonsoft.Json.dll
+D:\Университет\1 курс\2 cеместр\ОП\lab3\lab3_2\lab3_2\bin\Debug\Newtonsoft.Json.xml
+D:\Университет\1 курс\2 cеместр\ОП\lab3\lab3_2\lab3_2\obj\Debug\lab3_2.csproj.CopyComplete
+D:\Университет\1 курс\2 cеместр\ОП\lab3\lab3_2\lab3_2\obj\Debug\lab3_2.exe
+D:\Университет\1 курс\2 cеместр\ОП\lab3\lab3_2\lab3_2\obj\Debug\lab3_2.pdb
