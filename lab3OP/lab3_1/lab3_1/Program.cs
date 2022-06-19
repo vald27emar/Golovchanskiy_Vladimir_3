@@ -28,17 +28,14 @@ namespace lab3_1test2
                 Voltage.Add(float.Parse(Console.ReadLine()));
             }
 
-            //Завдання 4-го варіанту: Знайти наближене число R методом найменших квадратів
-            float sumch = 0, sumzn = 0, mnkR;
+            //R = U / I (Закон Ома)
+            float[] R = new float[n];
+            Console.WriteLine("По закону Ома, сопротивление R равняется:");
             for (int i = 0; i < n; i++)
             {
-                sumch += Amperage[i] * Voltage[i];
-                sumzn += Amperage[i] * Amperage[i];
+                R[i] = Voltage[i] / Amperage[i];
+                Console.WriteLine(R[i]);
             }
-
-            mnkR = sumch / sumzn;
-            Console.WriteLine("Приближённое число R (cопротивление) методом наименьших квадратов:");
-            Console.WriteLine(mnkR);
         }
     }
 }
